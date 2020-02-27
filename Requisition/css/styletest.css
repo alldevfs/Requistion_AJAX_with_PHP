@@ -1,0 +1,71 @@
+body {
+	background-color: yellow;
+	color: black;
+	font-size: 17px;
+}
+.content {
+	border: 5px solid black;
+	width: 400px;
+	height: 30%;
+	margin: auto;
+	margin-top: 3%;
+	text-align: center;
+	border-radius: 5px;
+	font-style: bold;
+	font-family: Arial;
+	padding: 20%;
+
+}
+.consulta {
+	margin: auto;
+	margin-top: 10%;
+	text-align: center;
+}
+select {
+	margin-top: 40px;
+	margin:;
+	width: 30%;
+	height:36px;
+	transition: .2s;
+	background-color: black;
+	color: yellow;
+	font-style: oblique;
+	font-family: Arial;
+	border-radius: 9px;
+	font-weight: bolder;
+
+
+}
+select:hover {
+	box-shadow: 0 0 1em black; 
+	transition: .2s;
+	border:bold;
+	color: black;
+	background-color: yellow;
+	border-color: black;
+	font-weight: bolder;
+}
+input {
+	margin: auto;
+
+	width: 7%;
+	height:36px;
+	transition: .2s;
+	background-color: black;
+	color: yellow;
+	font-style: oblique;
+	font-family: Arial;
+	border-radius: 9px;
+	font-weight: bolder;
+	border-style: none;
+}
+input:hover {
+	box-shadow: 0 0 1em black; 
+	transition: .2s;
+	border:bold;
+	color: black;
+	background-color: yellow;
+	border-color: black;
+	font-weight: bolder;
+	border-style: solid;
+}
